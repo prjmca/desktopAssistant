@@ -23,3 +23,13 @@ step4: Install all then required libraries for project
 pip install -r requirements.txt
 
 ```
+
+## Required github commands
+
+``` bash
+git add .
+
+git commit -m "message"
+
+git push origin main
+```
